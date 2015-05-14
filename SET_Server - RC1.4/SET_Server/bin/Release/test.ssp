@@ -1,0 +1,8 @@
+<%
+pr "Hddo <br>";
+pr "The date is: " & date() & "<br>"; pr "The time is: " & time() & "<br>";
+pr "The product of 6*5 is: " & 6*5& "<br>";
+pr "This is <b>bold</b> text." & "<br>"; pr "This is <i>italic</i> text.";
+pr "<table border="3"><tr><td>This</td><td>is</td></tr><tr><td>a</td><td>table.</td></tr></table>";
+pr "7 + 5 = " & 7+5 & ", 7 * 5 = " & 7*5 & ", 7 - 5 = " & 7-5;
+%>

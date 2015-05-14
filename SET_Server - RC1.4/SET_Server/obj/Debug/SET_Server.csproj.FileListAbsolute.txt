@@ -1,0 +1,32 @@
+C:\Users\Grigory\Documents\Visual Studio 2013\Projects\SET_Server\SET_Server\bin\Debug\SET_Server.exe.config
+C:\Users\Grigory\Documents\Visual Studio 2013\Projects\SET_Server\SET_Server\bin\Debug\SET_Server.exe
+C:\Users\Grigory\Documents\Visual Studio 2013\Projects\SET_Server\SET_Server\bin\Debug\SET_Server.pdb
+C:\Users\Grigory\Documents\Visual Studio 2013\Projects\SET_Server\SET_Server\obj\Debug\SET_Server.csprojResolveAssemblyReference.cache
+C:\Users\Grigory\Documents\Visual Studio 2013\Projects\SET_Server\SET_Server\obj\Debug\SET_Server.MainForm.resources
+C:\Users\Grigory\Documents\Visual Studio 2013\Projects\SET_Server\SET_Server\obj\Debug\SET_Server.Properties.Resources.resources
+C:\Users\Grigory\Documents\Visual Studio 2013\Projects\SET_Server\SET_Server\obj\Debug\SET_Server.csproj.GenerateResource.Cache
+C:\Users\Grigory\Documents\Visual Studio 2013\Projects\SET_Server\SET_Server\obj\Debug\SET_Server.exe
+C:\Users\Grigory\Documents\Visual Studio 2013\Projects\SET_Server\SET_Server\obj\Debug\SET_Server.pdb
+C:\Users\denys\Desktop\SET_Server\SET_Server\bin\Debug\SET_Server.exe.config
+C:\Users\denys\Desktop\SET_Server\SET_Server\obj\Debug\SET_Server.exe
+C:\Users\denys\Desktop\SET_Server\SET_Server\obj\Debug\SET_Server.pdb
+C:\Users\denys\Desktop\SET_Server\SET_Server\obj\Debug\SET_Server.csprojResolveAssemblyReference.cache
+C:\Users\denys\Desktop\SET_Server\SET_Server\obj\Debug\SET_Server.MainForm.resources
+C:\Users\denys\Desktop\SET_Server\SET_Server\obj\Debug\SET_Server.Properties.Resources.resources
+C:\Users\denys\Desktop\SET_Server\SET_Server\obj\Debug\SET_Server.csproj.GenerateResource.Cache
+C:\Users\denys\Desktop\SET_Server\SET_Server\bin\Debug\SET_Server.exe
+C:\Users\denys\Desktop\SET_Server\SET_Server\bin\Debug\SET_Server.pdb
+C:\Users\denys\Desktop\SET_Server - RC1\SET_Server\bin\Debug\SET_Server.exe.config
+C:\Users\denys\Desktop\SET_Server - RC1\SET_Server\obj\Debug\SET_Server.exe
+C:\Users\denys\Desktop\SET_Server - RC1\SET_Server\obj\Debug\SET_Server.pdb
+C:\Users\denys\Desktop\SET_Server - RC1.1\SET_Server\bin\Debug\SET_Server.exe.config
+C:\Users\denys\Desktop\SET_Server - RC1.1\SET_Server\obj\Debug\SET_Server.exe
+C:\Users\denys\Desktop\SET_Server - RC1.1\SET_Server\obj\Debug\SET_Server.pdb
+C:\Users\Grigory\Dropbox\SET_SERVER\SET_Server - RC1.2\SET_Server - RC1.2\SET_Server\bin\Debug\SET_Server.exe.config
+C:\Users\Grigory\Dropbox\SET_SERVER\SET_Server - RC1.2\SET_Server - RC1.2\SET_Server\obj\Debug\SET_Server.exe
+C:\Users\Grigory\Dropbox\SET_SERVER\SET_Server - RC1.2\SET_Server - RC1.2\SET_Server\obj\Debug\SET_Server.pdb
+C:\Users\Grigory\Dropbox\SET_SERVER\SET_Server - RC1.2\SET_Server - RC1.2\SET_Server\bin\Debug\SET_Server.exe
+C:\Users\Grigory\Dropbox\SET_SERVER\SET_Server - RC1.2\SET_Server - RC1.2\SET_Server\bin\Debug\SET_Server.pdb
+C:\Users\Grigory\Dropbox\SET_SERVER\SET_Server - RC1.2\SET_Server - RC1.2\SET_Server\obj\Debug\SET_Server.MainForm.resources
+C:\Users\Grigory\Dropbox\SET_SERVER\SET_Server - RC1.2\SET_Server - RC1.2\SET_Server\obj\Debug\SET_Server.Properties.Resources.resources
+C:\Users\Grigory\Dropbox\SET_SERVER\SET_Server - RC1.2\SET_Server - RC1.2\SET_Server\obj\Debug\SET_Server.csproj.GenerateResource.Cache

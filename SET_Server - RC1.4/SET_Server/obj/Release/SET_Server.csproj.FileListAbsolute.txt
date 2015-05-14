@@ -1,0 +1,24 @@
+C:\Users\Grigory\Dropbox\SET_SERVER\SET_Server - RC1.2\SET_Server - RC1.2\SET_Server\bin\Release\SET_Server.exe.config
+C:\Users\Grigory\Dropbox\SET_SERVER\SET_Server - RC1.2\SET_Server - RC1.2\SET_Server\bin\Release\SET_Server.exe
+C:\Users\Grigory\Dropbox\SET_SERVER\SET_Server - RC1.2\SET_Server - RC1.2\SET_Server\bin\Release\SET_Server.pdb
+C:\Users\Grigory\Dropbox\SET_SERVER\SET_Server - RC1.2\SET_Server - RC1.2\SET_Server\obj\Release\SET_Server.MainForm.resources
+C:\Users\Grigory\Dropbox\SET_SERVER\SET_Server - RC1.2\SET_Server - RC1.2\SET_Server\obj\Release\SET_Server.Properties.Resources.resources
+C:\Users\Grigory\Dropbox\SET_SERVER\SET_Server - RC1.2\SET_Server - RC1.2\SET_Server\obj\Release\SET_Server.csproj.GenerateResource.Cache
+C:\Users\Grigory\Dropbox\SET_SERVER\SET_Server - RC1.2\SET_Server - RC1.2\SET_Server\obj\Release\SET_Server.exe
+C:\Users\Grigory\Dropbox\SET_SERVER\SET_Server - RC1.2\SET_Server - RC1.2\SET_Server\obj\Release\SET_Server.pdb
+C:\Users\Grigory\Dropbox\SET_SERVER\SET_Server - RC1.2\SET_Server - RC1.2\SET_Server\obj\Release\SET_Server.csprojResolveAssemblyReference.cache
+C:\Users\Grigory\Dropbox\SET_SERVER\SET_Server - RC1.4\SET_Server\bin\Release\SET_Server.exe.config
+C:\Users\Grigory\Dropbox\SET_SERVER\SET_Server - RC1.4\SET_Server\obj\Release\SET_Server.exe
+C:\Users\Grigory\Dropbox\SET_SERVER\SET_Server - RC1.4\SET_Server\obj\Release\SET_Server.pdb
+C:\Users\Grigory\Dropbox\SET_SERVER\SET_Server - RC1.4\SET_Server\bin\Release\SET_Server.exe
+C:\Users\Grigory\Dropbox\SET_SERVER\SET_Server - RC1.4\SET_Server\bin\Release\SET_Server.pdb
+C:\Users\Grigory\Dropbox\SET_SERVER\SET_Server - RC1.4\SET_Server\obj\Release\SET_Server.csprojResolveAssemblyReference.cache
+C:\Users\Grigory\Dropbox\SET_SERVER\SET_Server - RC1.4\SET_Server\obj\Release\SET_Server.MainForm.resources
+C:\Users\Grigory\Dropbox\SET_SERVER\SET_Server - RC1.4\SET_Server\obj\Release\SET_Server.Properties.Resources.resources
+C:\Users\Grigory\Dropbox\SET_SERVER\SET_Server - RC1.4\SET_Server\obj\Release\SET_Server.csproj.GenerateResource.Cache
+C:\Users\ali\Downloads\Compressed\SET_Server - RC1.4\SET_Server\bin\Release\SET_Server.exe.config
+C:\Users\ali\Downloads\Compressed\SET_Server - RC1.4\SET_Server\obj\Release\SET_Server.exe
+C:\Users\ali\Downloads\Compressed\SET_Server - RC1.4\SET_Server\obj\Release\SET_Server.pdb
+C:\Users\ali\Downloads\Compressed\SET Server - Ali Rohaili - Denys Solomonov - Grigory Kozyrev\SET_Server - RC1.4\SET_Server\bin\Release\SET_Server.exe.config
+C:\Users\ali\Downloads\Compressed\SET Server - Ali Rohaili - Denys Solomonov - Grigory Kozyrev\SET_Server - RC1.4\SET_Server\obj\Release\SET_Server.exe
+C:\Users\ali\Downloads\Compressed\SET Server - Ali Rohaili - Denys Solomonov - Grigory Kozyrev\SET_Server - RC1.4\SET_Server\obj\Release\SET_Server.pdb
